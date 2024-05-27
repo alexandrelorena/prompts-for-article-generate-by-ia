@@ -8,7 +8,7 @@ Este projeto, faz parte do Bootcamp **Santander 2024 - Fundamentos de IA para De
 O objetivo do projeto é gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
 
-><a href="https://web.dio.me/articles/desbravando-as-ides-as-5-ides-mais-populares-do-mercado?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/desbravando-as-ides-as-5-ides-mais-populares-do-mercado?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ---
 ## 💻 Tecnologias utilizadas no projeto
